@@ -1270,6 +1270,9 @@ select {
 }
 
 @media (max-width: 480px) {
+  .ba-intro-body {
+    bottom: 0;
+  }
   .ba-intro-body__text {
     float: right;
   }
