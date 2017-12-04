@@ -1364,6 +1364,7 @@ select {
   }
   .ba-footer__logo,
   .ba-footer__social {
+    padding-left: 0;
     float: none;
     text-align: center;
   }
